@@ -1,0 +1,58 @@
+"t_shirt_id";"brand";"color";"size";"price";"stock_quantity"
+1;"Nike";"Black";"L";41;12
+2;"Adidas";"Red";"S";42;24
+3;"Levi";"Black";"XS";30;30
+4;"Nike";"Red";"S";40;90
+5;"Van Huesen";"Blue";"L";49;85
+6;"Van Huesen";"Black";"L";25;89
+7;"Van Huesen";"Black";"XL";39;18
+8;"Levi";"Red";"XS";32;72
+9;"Adidas";"White";"L";49;78
+10;"Adidas";"Blue";"XS";27;78
+11;"Nike";"Blue";"XS";14;54
+12;"Van Huesen";"Blue";"XS";26;81
+13;"Nike";"Blue";"M";16;57
+14;"Van Huesen";"White";"M";43;48
+15;"Nike";"Red";"L";18;84
+16;"Levi";"White";"XL";17;10
+17;"Nike";"Black";"S";26;47
+18;"Adidas";"White";"XS";44;86
+19;"Nike";"White";"M";38;98
+21;"Van Huesen";"Black";"M";47;14
+22;"Levi";"Red";"L";28;48
+23;"Adidas";"Black";"L";26;18
+25;"Levi";"Blue";"L";45;12
+26;"Nike";"Black";"XS";48;44
+27;"Van Huesen";"Red";"L";38;63
+28;"Adidas";"Black";"XL";26;17
+29;"Van Huesen";"Black";"S";19;12
+30;"Levi";"White";"S";42;19
+31;"Van Huesen";"Blue";"M";29;83
+34;"Adidas";"Black";"M";37;95
+40;"Nike";"Red";"XL";49;33
+41;"Levi";"Blue";"XL";40;41
+42;"Levi";"Blue";"S";33;86
+43;"Nike";"Red";"M";33;35
+44;"Nike";"Black";"XL";42;30
+50;"Van Huesen";"Red";"XL";22;79
+51;"Adidas";"Blue";"L";21;56
+53;"Adidas";"Red";"XL";48;22
+57;"Adidas";"Black";"XS";25;65
+59;"Adidas";"White";"XL";33;38
+60;"Adidas";"Red";"L";37;37
+61;"Levi";"Black";"S";18;90
+65;"Van Huesen";"Blue";"S";25;28
+66;"Adidas";"White";"S";29;36
+67;"Adidas";"Red";"M";45;17
+70;"Levi";"Red";"XL";33;97
+71;"Van Huesen";"Black";"XS";39;23
+73;"Van Huesen";"White";"L";31;32
+78;"Adidas";"Blue";"S";10;53
+80;"Van Huesen";"White";"XS";43;74
+82;"Levi";"Black";"L";12;42
+85;"Levi";"Red";"S";45;67
+90;"Levi";"Blue";"M";10;34
+91;"Levi";"White";"L";37;30
+92;"Van Huesen";"White";"S";14;41
+95;"Nike";"White";"XS";48;57
+100;"Levi";"White";"XS";36;17
