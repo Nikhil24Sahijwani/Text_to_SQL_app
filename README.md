@@ -1,5 +1,5 @@
 
-[streamlit-main-2024-06-14-10-06-29.webm](https://github.com/afroman24/Text_to_SQL_app/assets/90437564/b3fa5893-f3c2-44bd-8546-f6cd9aee44be)
+[streamlit-main-2024-06-25-12-06-25.webm](https://github.com/Nikhil24Sahijwani/Text_to_SQL_app/assets/90437564/2538943b-c73d-4f31-a6fb-5b52df9682a5)
 
 ## Overview
 
